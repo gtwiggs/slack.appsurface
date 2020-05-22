@@ -1,3 +1,10 @@
+# OSX files
+.DS_Store
+
+# Gradle working files
+.gradle
+build/**
+
 # Compiled class file
 *.class
 
@@ -11,7 +18,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# Suppressed to allow gradle JAR to be added: *.jar
 *.war
 *.nar
 *.ear
