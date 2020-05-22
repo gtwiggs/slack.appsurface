@@ -1,2 +1,3 @@
 # slack.appsurface
-Generate slack app surface messages
+
+A fluent interface for building messages for Slack App Surfaces.
